@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "maps_Avani_C0772788"
