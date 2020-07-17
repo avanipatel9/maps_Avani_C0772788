@@ -217,7 +217,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
             }
             if(titleString.isEmpty())
             {
-                titleString.add("Unknown Location");
+                titleString.add("Unknown Place");
             }
             if(address.getLocality() != null)
             {
